@@ -1,6 +1,6 @@
 ## 👋 About me
 
-31 yo C++ Developer. In IT industry since 202 - started as technical support, after that worked in mobile game development, finally landed as C++ developer. I love to learn interesting things, tech related news and gaming.
+33 yo C++ Developer. In IT industry since 202 - started as technical support, after that worked in mobile game development, finally landed as C++ developer. I love to learn interesting things, tech related news and gaming.
 
 [![Linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/jakub-cieplinski/)
 [![Mail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg)](mailto:jakub@cieplinski.dev)
